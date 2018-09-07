@@ -1,0 +1,10 @@
+2018-09-08 00:18:42 INFO  UserDao:25 - getting all users from database
+2018-09-08 00:18:42 INFO  UserDao:34 - adding user Petay
+2018-09-08 00:18:42 INFO  UserDao:34 - adding user 1
+2018-09-08 00:18:42 INFO  UserDao:34 - adding user uygu
+2018-09-08 00:18:42 INFO  UserDao:34 - adding user fgh
+2018-09-08 00:18:45 INFO  UserDao:25 - getting all users from database
+2018-09-08 00:18:45 INFO  UserDao:34 - adding user Petay
+2018-09-08 00:18:45 INFO  UserDao:34 - adding user 1
+2018-09-08 00:18:45 INFO  UserDao:34 - adding user uygu
+2018-09-08 00:18:45 INFO  UserDao:34 - adding user fgh
