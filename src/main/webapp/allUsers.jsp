@@ -48,7 +48,8 @@
                            <td>${user.password}</td>
                            <td>
                                <a href="${pageContext.request.contextPath}/deleteUser?id=${user.id}"><button type="button" class="btn btn-primary">Delete</button></a>
-                           </td>
+                               <a href="${pageContext.request.contextPath}/updateUser?id=${user.id}"><button type="button" class="btn btn-primary">Update</button></a>
+                            </td>
                        </tr>
                     </c:forEach>
                 </tbody>

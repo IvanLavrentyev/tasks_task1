@@ -32,4 +32,14 @@ public class UserService implements UserInterface {
     public boolean userExists(String login, String password) {
         return userDao.userExists(login,password);
     }
+
+    @Override
+    public User getUserById(long id) {
+        return userDao.getUserById(id);
+    }
+
+    @Override
+    public void updateUser(long id, String name, String login, String password) {
+        userDao.updateUser(id, name, login, password);
+    }
 }

@@ -21,7 +21,7 @@ public class AddUserServlet extends HttpServlet {
         String login = req.getParameter("login");
         String password = req.getParameter("password");
 
-        if (!userService.userExists(login,password)){
+        if (!name.isEmpty() && !login.isEmpty() && !password.isEmpty() && !userService.userExists(login,password)){
             userService.addUser(name, login, password);
         }
         resp.sendRedirect("/allUsers");

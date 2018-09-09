@@ -1,10 +1,321 @@
-2018-09-08 00:18:42 INFO  UserDao:25 - getting all users from database
-2018-09-08 00:18:42 INFO  UserDao:34 - adding user Petay
-2018-09-08 00:18:42 INFO  UserDao:34 - adding user 1
-2018-09-08 00:18:42 INFO  UserDao:34 - adding user uygu
-2018-09-08 00:18:42 INFO  UserDao:34 - adding user fgh
-2018-09-08 00:18:45 INFO  UserDao:25 - getting all users from database
-2018-09-08 00:18:45 INFO  UserDao:34 - adding user Petay
-2018-09-08 00:18:45 INFO  UserDao:34 - adding user 1
-2018-09-08 00:18:45 INFO  UserDao:34 - adding user uygu
-2018-09-08 00:18:45 INFO  UserDao:34 - adding user fgh
+2018-09-09 09:56:06 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:56:06 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:56:06 INFO  UserDao:34 - adding user 12
+2018-09-09 09:56:06 INFO  UserDao:34 - adding user 1
+2018-09-09 09:56:06 INFO  UserDao:34 - adding user 1
+2018-09-09 09:56:16 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:56:16 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:56:16 INFO  UserDao:34 - adding user 12
+2018-09-09 09:56:16 INFO  UserDao:34 - adding user 1
+2018-09-09 09:56:16 INFO  UserDao:34 - adding user 1
+2018-09-09 09:57:25 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:57:25 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:57:25 INFO  UserDao:34 - adding user 12
+2018-09-09 09:57:25 INFO  UserDao:34 - adding user 1
+2018-09-09 09:57:25 INFO  UserDao:34 - adding user 1
+2018-09-09 09:57:27 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:57:27 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:57:27 INFO  UserDao:34 - adding user 12
+2018-09-09 09:57:27 INFO  UserDao:34 - adding user 1
+2018-09-09 09:57:27 INFO  UserDao:34 - adding user 1
+2018-09-09 09:59:07 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:59:07 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:59:07 INFO  UserDao:34 - adding user 12
+2018-09-09 09:59:07 INFO  UserDao:34 - adding user 1
+2018-09-09 09:59:07 INFO  UserDao:34 - adding user 1
+2018-09-09 09:59:10 INFO  UserDao:25 - getting all users from database
+2018-09-09 09:59:10 INFO  UserDao:34 - adding user Petay
+2018-09-09 09:59:10 INFO  UserDao:34 - adding user 12
+2018-09-09 09:59:10 INFO  UserDao:34 - adding user 1
+2018-09-09 09:59:10 INFO  UserDao:34 - adding user 1
+2018-09-09 10:06:43 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:06:43 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:06:43 INFO  UserDao:34 - adding user 12
+2018-09-09 10:06:43 INFO  UserDao:34 - adding user 1
+2018-09-09 10:06:43 INFO  UserDao:34 - adding user 1
+2018-09-09 10:06:47 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:06:47 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:06:47 INFO  UserDao:34 - adding user 12
+2018-09-09 10:06:47 INFO  UserDao:34 - adding user 1
+2018-09-09 10:06:47 INFO  UserDao:34 - adding user 1
+2018-09-09 10:10:02 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:10:02 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:10:02 INFO  UserDao:34 - adding user 12
+2018-09-09 10:10:02 INFO  UserDao:34 - adding user 1
+2018-09-09 10:10:02 INFO  UserDao:34 - adding user 1
+2018-09-09 10:10:07 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:10:07 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:10:07 INFO  UserDao:34 - adding user 12
+2018-09-09 10:10:07 INFO  UserDao:34 - adding user 1
+2018-09-09 10:10:07 INFO  UserDao:34 - adding user 1
+2018-09-09 10:11:14 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:11:14 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:11:14 INFO  UserDao:34 - adding user 12
+2018-09-09 10:11:14 INFO  UserDao:34 - adding user 1
+2018-09-09 10:11:14 INFO  UserDao:34 - adding user 1
+2018-09-09 10:11:17 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:11:17 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:11:17 INFO  UserDao:34 - adding user 12
+2018-09-09 10:11:17 INFO  UserDao:34 - adding user 1
+2018-09-09 10:11:17 INFO  UserDao:34 - adding user 1
+2018-09-09 10:13:32 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:13:32 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:13:32 INFO  UserDao:34 - adding user 12
+2018-09-09 10:13:32 INFO  UserDao:34 - adding user 1
+2018-09-09 10:13:32 INFO  UserDao:34 - adding user 1
+2018-09-09 10:13:35 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:13:35 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:13:35 INFO  UserDao:34 - adding user 12
+2018-09-09 10:13:35 INFO  UserDao:34 - adding user 1
+2018-09-09 10:13:35 INFO  UserDao:34 - adding user 1
+2018-09-09 10:16:01 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:16:01 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:16:01 INFO  UserDao:34 - adding user 12
+2018-09-09 10:16:01 INFO  UserDao:34 - adding user 1
+2018-09-09 10:16:01 INFO  UserDao:34 - adding user 1
+2018-09-09 10:16:05 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:16:05 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:16:05 INFO  UserDao:34 - adding user 12
+2018-09-09 10:16:05 INFO  UserDao:34 - adding user 1
+2018-09-09 10:16:05 INFO  UserDao:34 - adding user 1
+2018-09-09 10:37:23 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:37:23 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:37:23 INFO  UserDao:34 - adding user 12
+2018-09-09 10:37:23 INFO  UserDao:34 - adding user 1
+2018-09-09 10:37:23 INFO  UserDao:34 - adding user 1
+2018-09-09 10:37:26 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:37:26 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:37:26 INFO  UserDao:34 - adding user 12
+2018-09-09 10:37:26 INFO  UserDao:34 - adding user 1
+2018-09-09 10:37:26 INFO  UserDao:34 - adding user 1
+2018-09-09 10:38:39 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:38:39 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:38:39 INFO  UserDao:34 - adding user 12
+2018-09-09 10:38:39 INFO  UserDao:34 - adding user 1
+2018-09-09 10:38:39 INFO  UserDao:34 - adding user test
+2018-09-09 10:38:39 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:39:36 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user 12
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user 1
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user test
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:39:36 INFO  UserDao:34 - adding user 11
+2018-09-09 10:41:22 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user 12
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user 1
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user test
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:41:22 INFO  UserDao:34 - adding user 11
+2018-09-09 10:41:24 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user 12
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user 1
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user test
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:41:24 INFO  UserDao:34 - adding user 11
+2018-09-09 10:42:26 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user 12
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user 1
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user test
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:42:26 INFO  UserDao:34 - adding user 11
+2018-09-09 10:42:28 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user 12
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user 1
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user test
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:42:28 INFO  UserDao:34 - adding user 11
+2018-09-09 10:44:10 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user 12
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user 1
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user test
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:44:10 INFO  UserDao:34 - adding user 11
+2018-09-09 10:44:12 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user 12
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user 1
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user test
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:44:12 INFO  UserDao:34 - adding user 11
+2018-09-09 10:46:05 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user 12
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user 1
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user test
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:46:05 INFO  UserDao:34 - adding user 11
+2018-09-09 10:46:08 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user 12
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user 1
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user test
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:46:08 INFO  UserDao:34 - adding user 11
+2018-09-09 10:46:14 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user 12
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user 1
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user test
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:46:14 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:12 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user 12
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user 1
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user test
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:12 INFO  UserDao:34 - adding user 1234567
+2018-09-09 10:47:24 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user 12
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user 1
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user test
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:24 INFO  UserDao:34 - adding user 1234567lkjhgf
+2018-09-09 10:47:37 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user 1
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user test
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:37 INFO  UserDao:34 - adding user 1234567lkjhgf
+2018-09-09 10:47:40 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:40 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:40 INFO  UserDao:34 - adding user test
+2018-09-09 10:47:40 INFO  UserDao:34 - adding user 1234
+2018-09-09 10:47:40 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:40 INFO  UserDao:34 - adding user 1234567lkjhgf
+2018-09-09 10:47:41 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:41 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:41 INFO  UserDao:34 - adding user test
+2018-09-09 10:47:41 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:41 INFO  UserDao:34 - adding user 1234567lkjhgf
+2018-09-09 10:47:42 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:42 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:42 INFO  UserDao:34 - adding user 11
+2018-09-09 10:47:42 INFO  UserDao:34 - adding user 1234567lkjhgf
+2018-09-09 10:47:44 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:47:44 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:47:44 INFO  UserDao:34 - adding user 11
+2018-09-09 10:48:07 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:48:07 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:48:07 INFO  UserDao:34 - adding user slon
+2018-09-09 10:48:12 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:48:12 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:50:23 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:50:23 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:50:23 INFO  UserDao:34 - adding user 
+2018-09-09 10:50:43 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:50:43 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:50:43 INFO  UserDao:34 - adding user 
+2018-09-09 10:50:43 INFO  UserDao:34 - adding user slon
+2018-09-09 10:50:45 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:50:45 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:50:45 INFO  UserDao:34 - adding user slon
+2018-09-09 10:51:16 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:51:16 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:51:16 INFO  UserDao:34 - adding user slon
+2018-09-09 10:51:24 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:51:24 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:51:24 INFO  UserDao:34 - adding user slon
+2018-09-09 10:51:24 INFO  UserDao:34 - adding user 
+2018-09-09 10:53:42 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:42 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:42 INFO  UserDao:34 - adding user slon
+2018-09-09 10:53:42 INFO  UserDao:34 - adding user 
+2018-09-09 10:53:45 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:45 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:45 INFO  UserDao:34 - adding user slon
+2018-09-09 10:53:45 INFO  UserDao:34 - adding user 
+2018-09-09 10:53:49 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:49 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:49 INFO  UserDao:34 - adding user slon
+2018-09-09 10:53:51 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:51 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:51 INFO  UserDao:34 - adding user slon
+2018-09-09 10:53:52 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:52 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:52 INFO  UserDao:34 - adding user slon
+2018-09-09 10:53:56 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:53:56 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:53:56 INFO  UserDao:34 - adding user slon
+2018-09-09 10:54:08 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:54:08 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:54:08 INFO  UserDao:34 - adding user slon
+2018-09-09 10:54:08 INFO  UserDao:34 - adding user ef
+2018-09-09 10:57:14 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:57:14 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:57:14 INFO  UserDao:34 - adding user slon
+2018-09-09 10:57:14 INFO  UserDao:34 - adding user ef
+2018-09-09 10:57:16 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:57:16 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:57:16 INFO  UserDao:34 - adding user slon
+2018-09-09 10:57:16 INFO  UserDao:34 - adding user ef
+2018-09-09 10:58:30 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:58:30 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:58:30 INFO  UserDao:34 - adding user slon
+2018-09-09 10:58:30 INFO  UserDao:34 - adding user ef
+2018-09-09 10:58:33 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:58:33 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:58:33 INFO  UserDao:34 - adding user slon
+2018-09-09 10:58:33 INFO  UserDao:34 - adding user ef
+2018-09-09 10:59:39 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:59:39 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:59:39 INFO  UserDao:34 - adding user slon
+2018-09-09 10:59:39 INFO  UserDao:34 - adding user ef
+2018-09-09 10:59:42 INFO  UserDao:25 - getting all users from database
+2018-09-09 10:59:42 INFO  UserDao:34 - adding user Petay
+2018-09-09 10:59:42 INFO  UserDao:34 - adding user slon
+2018-09-09 10:59:42 INFO  UserDao:34 - adding user ef
+2018-09-09 11:05:56 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:05:56 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:05:56 INFO  UserDao:34 - adding user slon
+2018-09-09 11:05:56 INFO  UserDao:34 - adding user ef
+2018-09-09 11:06:00 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:06:00 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:06:00 INFO  UserDao:34 - adding user slon
+2018-09-09 11:06:00 INFO  UserDao:34 - adding user ef
+2018-09-09 11:09:12 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:09:12 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:09:12 INFO  UserDao:34 - adding user slon
+2018-09-09 11:09:12 INFO  UserDao:34 - adding user ef
+2018-09-09 11:09:15 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:09:15 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:09:15 INFO  UserDao:34 - adding user slon
+2018-09-09 11:09:15 INFO  UserDao:34 - adding user ef
+2018-09-09 11:09:43 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:09:43 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:09:43 INFO  UserDao:34 - adding user slon
+2018-09-09 11:09:43 INFO  UserDao:34 - adding user ef
+2018-09-09 11:09:55 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:09:55 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:09:55 INFO  UserDao:34 - adding user slon
+2018-09-09 11:09:55 INFO  UserDao:34 - adding user ef
+2018-09-09 11:10:14 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:10:14 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:10:14 INFO  UserDao:34 - adding user sl
+2018-09-09 11:10:14 INFO  UserDao:34 - adding user ef
+2018-09-09 11:11:42 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:11:42 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:11:42 INFO  UserDao:34 - adding user sl
+2018-09-09 11:11:42 INFO  UserDao:34 - adding user ef
+2018-09-09 11:11:44 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:11:44 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:11:44 INFO  UserDao:34 - adding user sl
+2018-09-09 11:11:44 INFO  UserDao:34 - adding user ef
+2018-09-09 11:12:01 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:12:01 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:12:01 INFO  UserDao:34 - adding user sl
+2018-09-09 11:12:01 INFO  UserDao:34 - adding user ef
+2018-09-09 11:12:16 INFO  UserDao:25 - getting all users from database
+2018-09-09 11:12:16 INFO  UserDao:34 - adding user Petay
+2018-09-09 11:12:16 INFO  UserDao:34 - adding user sl
+2018-09-09 11:12:16 INFO  UserDao:34 - adding user ef

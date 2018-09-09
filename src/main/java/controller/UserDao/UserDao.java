@@ -62,7 +62,31 @@ public class UserDao implements UserInterface {
             }catch (SQLException e){}
             return i;
         });
-
         return flag!=0;
+    }
+
+    @Override
+    public User getUserById(long id) {
+        User user = executor.execQuery(String.format("select * from task1_db.user where id='%s'",id), result ->{
+            User u = null;
+            try {
+                result.next();
+                long userId = result.getLong("id");
+                String userName = result.getString("name");
+                String userLogin = result.getString("login");
+                String userPass = result.getString("password");
+                u = new User(userId, userName, userLogin, userPass);
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+            return u;
+        });
+        return user;
+    }
+
+    @Override
+    public void updateUser(long id, String name, String login, String password) {
+        executor.execUpdate(String.format("update task1_db.user set name='%s', login='%s', password='%s' where id='%s'",
+                name, login, password, id));
     }
 }

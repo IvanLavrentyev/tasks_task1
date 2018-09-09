@@ -2,7 +2,6 @@ package controller.Servlet;
 
 import controller.UserDao.UserService;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -19,7 +18,6 @@ public class DeleteUserServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         long id =Long.parseLong(req.getParameter("id"));
         userService.deleteUserById(id);
-
         resp.sendRedirect("/allUsers");
     }
 }
